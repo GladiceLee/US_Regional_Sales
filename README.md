@@ -7,4 +7,4 @@ This project presents a comprehensive analysis of US regional sales data using P
 3. Sales Team Performance: Analyzed the performance of 28 different sales teams by comparing both the quantity of products sold and the number of orders, with the findings visualized for clarity.
 
 Data Source:
-The dataset used for this analysis is sourced from Kaggle, authored by Dorothy Joel. You can access the data here.
+The dataset used for this analysis is sourced from Kaggle, authored by Dorothy Joel. You can access the data here: https://www.kaggle.com/datasets/dorothyjoel/us-regional-sales
